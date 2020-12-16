@@ -6,3 +6,4 @@ casos de uso, java, c++, php.
 # Joel Amador                     20121016684
 # Jorge Palma                     20131001129
 # Jose Gutierrez                  20121008147
+# Gadiel Zelaya                   20141006825
